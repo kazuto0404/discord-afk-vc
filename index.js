@@ -11,9 +11,9 @@ const { joinVoiceChannel } = require('@discordjs/voice');
 client
 .on('ready', async () => {
     joinVoiceChannel({
-  channelId: "1021248705766096956",
-  guildId: "1020455918636384356",
-  adapterCreator: client.guilds.cache.get("1020455918636384356").voiceAdapterCreator
+  channelId: "id du salon voc",
+  guildId: "id du serv",
+  adapterCreator: client.guilds.cache.get("id du serv").voiceAdapterCreator
 })
 
 	.on('ready', async () => {
