@@ -2,4 +2,4 @@
 selfbot for afk voice channel
 
 ## config ?
-- to configure go check index.js and config.js and run  ***start.bat***
+- to configure check index.js and config.js and run  ***start.bat***
